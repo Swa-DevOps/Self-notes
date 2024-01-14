@@ -6,3 +6,4 @@ sudo yum upgrade
 #sudo yum install java-17-openjdk
 sudo yum install jenkins
 sudo systemctl daemon-reload
+done
